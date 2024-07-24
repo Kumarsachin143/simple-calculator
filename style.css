@@ -1,0 +1,264 @@
+*{
+	padding:0;
+	margin:0;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+.header-section{
+	height:40px;
+	background-color:;
+	display: flex;
+	justify-content:;
+	padding:10px;
+	align-items: center;
+
+
+}
+.icon-section{
+	background-image: url("microsoft icon.png");
+	background-size: cover;
+	height: 30px;
+	width: 30px;
+	align-items:center;
+	padding: 5px;
+	margin-left: 30px;
+	
+}
+h3{
+	padding:5px;
+}
+.header-links{
+	display:flex;
+	justify-content: space-evenly;
+
+}
+.second-link{
+	margin-left: 400px;
+
+}
+ header a{
+	text-decoration: none;
+	color:rgb(88, 81, 81);
+	font-size: small;
+	margin:15px;
+	font-weight: lighter;
+}
+a:hover{
+	border-bottom: 3px solid;
+}
+select{
+	border:none;
+	background-color: white;
+	margin:0px;
+}
+.hero-section{
+	background-image:url("microsoft image.avif ");
+	background-size:cover;
+	height: 500px;
+}
+.connect-device{
+     margin-left:34%;
+	 margin-top:50px;
+	 font-size: 30px;	
+	
+}
+.connect-device i{
+	padding: 40px;
+
+
+}
+.hyper-links{
+	margin-left:450px;
+}
+.hyper-links a{
+      padding:20px;
+	  color: rgb(13, 131, 177);
+}
+#one{
+	margin-left:55px;
+}
+#two{
+	margin-left:25px;
+}
+#three{
+	margin-left:55px;
+}
+.box-pattern{
+	
+
+}
+.box-pattern{
+	margin-top:70px;
+	display:flex;
+	justify-content:space-evenly;
+	
+}
+.box1{
+	background-image: url("Content-Card-Microsoft-365-Lifestyle-Sandstone-Icon-Toss.avif");
+    height:200px;
+    width:330px;
+    border:2px solid black;
+
+}
+.top{
+	margin-top:250px;
+	font-weight: 100px;
+	margin-left:30px;
+	
+}
+.bottom{
+	margin:30px;
+	padding:px;
+}
+.botton{
+	
+	height:40px;
+	width:150px;
+	display:flex;
+	justify-content: center;
+	align-items:center;
+	color:white;
+	background-color: rgb(8, 102, 190);
+	margin-left:30px;
+}
+#connect {
+	color:rgb(29, 29, 215);
+	margin-left:30px;
+	margin-top:30px ;
+	padding: 20px;
+}
+
+.box2{
+	background-image:url("box2 image.avif");
+	background-size:cover;
+	height:200px;
+	width:330px;
+	
+}
+.box3{
+	background-image:url("box3 image.webp");
+	background-size:cover;
+	height:200px;
+	width:330px;
+	
+}
+
+.box4{
+	background-image:url("box4 image.avif");
+	background-size:cover;
+	height:200px;
+	width:330px;
+	
+}
+.box5{
+	background-image:url("box5.avif");
+	background-size:cover;
+	height:200px;
+	width:330px;
+	
+}
+.box6{
+	background-image:url("box6.avif");
+	background-size:cover;
+	height:200px;
+	width:330px;
+	
+}
+.box7{
+	background-image:url("box7.jpeg");
+	background-size:cover;
+	height:200px;
+	width:330px;	
+}
+.box8{
+	background-image:url("box8.webp");
+	background-size:cover;
+	height:200px;
+	width:330px;
+	
+}
+.second-hero_image{
+	margin-top:350px;
+	background-image:url("bottom-panel image.avif");
+	background-size:cover;
+	height:500px;
+	margin-top: 400px;
+	display: flex;
+	margin-left: 80px;
+	margin-right: 80px;
+
+}
+.footer-botton{
+	height:35px;
+	width:170px;
+	background-color: yellowgreen;
+	margin-top: 120px;
+	margin-left: 120px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	justify-content: center;
+}
+#game{
+	color:white;
+	margin-left: 20px;
+	margin-top: 170px;
+
+}
+#paragraph{
+	color:white;
+}
+#h1{
+	margin-left: 80px;
+	margin-top: 80px;
+}
+#link-follow{
+	margin-top: 300px;
+	margin-left: 80px;
+	padding:50px;
+}
+#link-follow i{
+	padding:20px;
+	font-size: 1.5rem;
+}
+#back_to_top{
+	margin-left: 1400px;
+	height: 30px;
+	width: 100px;
+	background-color: rgb(147, 178, 207);
+	display:flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+
+}
+.footer-pannel{
+	margin-top: 50px;
+	height: 400px;
+	width: 1540px;
+	background-color:rgb(238, 238, 238);
+}
+.footer-link{
+	margin-top:30px;
+	display:flex;
+	justify-content: space-around;
+}
+.footer-link p{
+    margin-top: 30px;
+	font-weight:bold;
+}
+.link{
+	display:flex;
+	justify-content: space-evenly;
+}
+.link li{
+	text-decoration:none;
+	padding: 10px;
+	font-weight:lighter;
+	font-size:100;
+	color:rgb(79, 83, 86);
+	list-style:none;
+}
+
+
+
